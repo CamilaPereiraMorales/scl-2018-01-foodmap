@@ -1,0 +1,14 @@
+
+@media only screen and (max-width: all) {
+    body{
+        background-color: black;
+     }
+    #logoImg{
+    margin: 200 200 200 200;
+    display: center;    
+    height: 400px;
+    width: 200px;
+    }
+    
+
+}

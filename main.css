@@ -1,12 +1,30 @@
 
-@media only screen and (max-width: all) {
-    body{
+    html, body{
         background-color: black;
-     }
-    #logoImg{
-    margin: 200 200 200 200;
-    display: center;    
+        height: 100%;
+
+
+    }
+    #map{
     height: 400px;
+    width: 600px;
+    margin: 30px;
+    padding: 5px;
+    }
+
+#headerLogo{
+    height: 200px;
     width: 200px;
- }
+    margin-top: 15px;
+}
+#inputGroupSelect04{
+    background-color: black;
+    color: white;
+}
+.input-group{
+    margin-bottom: 100px;
+}
+#imgInfo{
+    margin-bottom: 50px;
+    color: white;
 }
